@@ -1,0 +1,83 @@
+{
+    "create": {
+      "title": "Guerra Mundial Z",
+      "overview": "Guerra Mundial Z é um filme de ação e suspense apocalíptico que segue um ex-investigador da ONU, Gerry Lane, enquanto ele tenta descobrir a origem de uma pandemia global que transforma as pessoas em zumbis. Com o mundo à beira do colapso, ele percorre diversos países em busca de uma solução para a crise.",
+      "company": "Paramount Pictures",
+      "release_year": 2013,
+      "featured": false,
+      "cover": "imagens/guerra_mundial_z.png"
+    },
+    "resident_evil": {
+      "title": "Resident Evil",
+      "overview": "Alice acorda em um laboratório subterrâneo em Raccoon City, onde um vírus mortal foi liberado, transformando a população em mortos-vivos. Ela tenta escapar do complexo e combater a corporação Umbrella responsável pela epidemia.",
+      "company": "Screen Gems",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "imagens/resident_evil.png"
+    },
+    "o_hospedeiro": {
+      "title": "O Hospedeiro",
+      "overview": "Após um monstruoso ataque de uma criatura mutante em Seul, um pai luta para resgatar sua filha sequestrada pela criatura, enquanto uma ameaça biológica começa a se espalhar pelo país.",
+      "company": "Showbox",
+      "release_year": 2006,
+      "featured": false,
+      "cover": "imagens/o_hospedeiro.png"
+    },
+    "zumbilandia": {
+      "title": "Zumbilândia",
+      "overview": "Em um mundo pós-apocalíptico, um grupo de sobreviventes tenta se manter vivo em meio a uma infestação de zumbis, seguindo um conjunto de regras peculiar para evitar a morte.",
+      "company": "Columbia Pictures",
+      "release_year": 2009,
+      "featured": false,
+      "cover": "imagens/zumbilandia.png"
+    },
+    "a_noite_dos_mortos_vivos": {
+      "title": "A Noite dos Mortos-Vivos",
+      "overview": "Um grupo de pessoas se refugia em uma casa isolada no campo enquanto uma invasão de mortos-vivos começa a tomar conta do mundo. Eles devem enfrentar seus próprios medos enquanto tentam sobreviver.",
+      "company": "Romero-Grunwald Productions",
+      "release_year": 1968,
+      "featured": false,
+      "cover": "imagens/a_noite_dos_mortos_vivos.png"
+    },
+    "exterminio": {
+      "title": "Extermínio",
+      "overview": "Após um vírus mortal se espalhar por Londres, infectando a população e transformando-a em zumbis agressivos, um grupo de sobreviventes tenta encontrar uma maneira de escapar da cidade em ruínas.",
+      "company": "20th Century Fox",
+      "release_year": 2002,
+      "featured": false,
+      "cover": "imagens/exterminio.png"
+    },
+    "a_terra_dos_mortos": {
+      "title": "A Terra dos Mortos",
+      "overview": "Em um mundo dominado por zumbis, um pequeno grupo de sobreviventes se refugia em uma cidade fortificada. O líder da cidade tenta manter a ordem, mas uma nova ameaça surge.",
+      "company": "Universal Pictures",
+      "release_year": 2005,
+      "featured": false,
+      "cover": "imagens/a_terra_dos_mortos.png"
+    },
+    "shaun_of_the_dead": {
+      "title": "Shaun of the Dead",
+      "overview": "Shaun e seus amigos tentam sobreviver ao apocalipse zumbi enquanto lidam com questões cotidianas como relacionamentos e responsabilidades, tudo isso no meio do caos.",
+      "company": "Universal Pictures",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "imagens/shaun_of_the_dead.png"
+    },
+    "infectados": {
+      "title": "Infectados",
+      "overview": "Um vírus mortal que transforma as pessoas em criaturas sedentas por sangue se espalha rapidamente, e um grupo de sobreviventes luta para escapar da infecção.",
+      "company": "Warner Bros.",
+      "release_year": 2007,
+      "featured": false,
+      "cover": "imagens/infectados.png"
+    },
+    "madrugada_dos_mortos": {
+      "title": "Madrugada dos Mortos",
+      "overview": "Quando uma epidemia zumbi se espalha rapidamente pelo mundo, um grupo de sobreviventes se refugia em um shopping center, tentando se proteger dos mortos-vivos e da pressão psicológica de estar preso.",
+      "company": "Universal Pictures",
+      "release_year": 2004,
+      "featured": false,
+      "cover": "imagens/madrugada_dos_mortos.png"
+    }
+  }
+  
